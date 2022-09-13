@@ -1,0 +1,21 @@
+Ngày 1 (12/9): 
+    MongoDB: 
+        Create DB,
+        Create Collection
+        Insert, Update, Save, Delete(Remove)
+        Query:
+            Find: 
+                $lt, $lte, $gt, $gte, $ne, $in, $nin 
+                $and, $or, $not, $nor 
+                Limit, skip, sort 
+            Aggregate:
+                $group, $min, $max, $avg, $sum, $first, $last, $push, $addToSet
+        Index:
+            Create
+            Dropt
+    Connect Java with MongoDB:
+        Connected
+        getDatabase
+        getCollection
+        getListDocument
+End =))

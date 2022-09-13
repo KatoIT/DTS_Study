@@ -1,0 +1,8 @@
+-- Create Database --
+use DB_NAME;
+-- Create Collection --
+db.createCollection(COLLECTION_NAME, options);
+
+db.COLLECTION_NAME.insert(document);
+db.COLLECTION_NAME.update(SELECTION_CRITERIA, UPDATED_DATA);
+
