@@ -8,5 +8,5 @@
 
 ## Báo cáo
 
-- [Linux.md]()
-- [Comment.md]()
+- [Linux.md](https://github.com/KatoIT/DTS_Study/blob/linux/Linux.md)
+- [CommandLine.md](https://github.com/KatoIT/DTS_Study/blob/linux/CommandLine.md)
