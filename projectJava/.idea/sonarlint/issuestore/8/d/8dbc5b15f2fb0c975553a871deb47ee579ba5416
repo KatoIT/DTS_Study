@@ -1,0 +1,8 @@
+
+ˆ
+java:S4165	"fRemove this useless assignment; "arrayInt" already holds the assigned value along all execution paths.(žŠ’Óúÿÿÿÿ8§²‰Ò³0
+†
+java:S4165"iRemove this useless assignment; "arrayString" already holds the assigned value along all execution paths.(‡†Éƒ8˜“‰Ò³0
+†
+java:S4165
+"iRemove this useless assignment; "arrayDouble" already holds the assigned value along all execution paths.(÷Èß•8µÈ‰Ò³0
