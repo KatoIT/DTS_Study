@@ -6,7 +6,7 @@ public class Factorial {
         System.out.println("Giai thừa của " + value + " là: " + giaiThuaDeQuy(value) + " (*Đệ quy)");
     }
 
-    public static long giaiThua(int number) {
+    private static long giaiThua(int number) {
         long giaiThua = 1;
         if (number == 0 || number == 1) {
             return giaiThua;
@@ -18,7 +18,7 @@ public class Factorial {
         }
     }
 
-    public static long giaiThuaDeQuy(int number) {
+    private static long giaiThuaDeQuy(int number) {
         if (number == 0 || number == 1) {
             return 1;
         } else {

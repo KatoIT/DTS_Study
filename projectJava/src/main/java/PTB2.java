@@ -13,7 +13,7 @@ public class PTB2 {
         giaiPTBac2(a, b, c);
     }
 
-    public static void giaiPTBac2(double heSoBac2, double heSoBac1, double soHangTuDo) {
+    private static void giaiPTBac2(double heSoBac2, double heSoBac1, double soHangTuDo) {
         if (heSoBac2 == 0) {
             if (heSoBac1 == 0) {
                 System.out.println("Phương trình vô nghiệm!");
