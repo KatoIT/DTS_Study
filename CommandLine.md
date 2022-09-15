@@ -38,27 +38,17 @@ Tham khảo chi tiết **[tại đây](https://techmaster.vn/posts/33520/cau-len
 
 ## **ls** liệt kê nội dung (file và thư mục) trong thư mục hiện hành.
 
----
-
 ## Tạo thư mục: **mkdir**
 
     mkdir directory_path
     VD: - mkdir folder
         - mkdir ./folder1 ./folder2
 
----
-
 ## **pwd** in ra đường dẫn đầy đủ đến thư mục hiện hành.
-
----
 
 ## **cd** chuyển một thư mục thành thư mục hiện hành cho phiên làm việc hiện tại.
 
----
-
 ## **rmdir** xóa một thư mục.
-
----
 
 ## Sao chép: **cp**
 
@@ -77,8 +67,6 @@ Sao chép itemX vào directory
 ```
 VD: cp item1 item2 ... directory
 ```
-
----
 
 ## Di chuyển hoặc đổi tên tệp và thư mục: **mv**
 
@@ -103,8 +91,6 @@ Di chuyển item1 vào trong item2 nếu item2 đã tồn tại
 VD: mv item1 item2
 ```
 
----
-
 ## Xóa tệp hoặc thư mục: **rm**
 
 | Tùy biến         | Tác dụng                                                                                                             |
@@ -118,31 +104,21 @@ VD: mv item1 item2
 
 đọc và in ra nội dung của file ra màn hình.
 
----
-
 ## **tail**
 
 đọc và in ra nội dung 10 dòng cuối cùng của file (mặc định).Có thể sử dụng tail **-n N** để chỉ định in **N** dòng ra màn hình.
-
----
 
 ## **less**
 
 in ra nội dung của một file theo từng trang trong trường hợp nội dung của file quá lớn và phải đọc theo trang. Bạn có thể dùng **Ctrl+F** để chuyển trang tiếp theo và **Ctrl+B** để chuyển về trang trước.
 
----
-
 ## **grep**
 
 tìm kiếm nội dung của file theo chuỗi cung cấp. Có thể dùng grep **-i** để tìm kiếm không phân biệt hoa thường hoặc **grep -r** để tìm kiếm trong toàn thư mục
 
----
-
 ## **find -name**
 
 tìm kiếm file trong theo. Có thể dùng **find -iname** để tìm kiếm không phân biệt hoa thường.
-
----
 
 ## **tar**
 
@@ -150,31 +126,21 @@ tìm kiếm file trong theo. Có thể dùng **find -iname** để tìm kiếm k
 - **tar -tvf** xem nội dung file nén (.tar).
 - **tar -xvf** giải nén (file .tar).
 
----
-
 ## **gzip**
 
 tạo file nén (.gz). Sử dụng **gzip -d** để giải nén (file .gz).
-
----
 
 ## **unzip**
 
 giải nén một file nén (.zip). Sử dụng **unzip -l** để xem nội dung file zip mà không cần giải nén.
 
----
-
 ## **ping <địa chỉ host>**
 
 ​ ping một host từ xa (server) bằng cách gửi các gói tin đến host đó. Nó thường dùng để kiểm tra kết nối mạng đến server.
 
----
-
 ## **ps** ​
 
 hiển thị thông tin về các tiến trình đang chạy.
-
----
 
 ## **top** ​
 
