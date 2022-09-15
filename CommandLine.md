@@ -19,7 +19,7 @@
 
 Tham khảo chi tiết **[tại đây](https://techmaster.vn/posts/33519/cau-lenh-linux-can-biet-1)**
 
-#
+---
 
     help
     whatis – What is this command
@@ -34,7 +34,7 @@ Tham khảo chi tiết **[tại đây](https://techmaster.vn/posts/33519/cau-len
 
 Tham khảo chi tiết **[tại đây](https://techmaster.vn/posts/33520/cau-lenh-linux-ban-can-biet-2)**
 
-#
+---
 
 ## ls
 
