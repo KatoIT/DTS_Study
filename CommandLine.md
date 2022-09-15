@@ -36,21 +36,33 @@ Tham khảo chi tiết **[tại đây](https://techmaster.vn/posts/33520/cau-len
 
 #
 
-## **ls** liệt kê nội dung (file và thư mục) trong thư mục hiện hành.
+## ls
 
-## Tạo thư mục: **mkdir**
+liệt kê nội dung (file và thư mục) trong thư mục hiện hành.
+
+## mkdir
+
+Tạo thư mục mới
 
     mkdir directory_path
     VD: - mkdir folder
         - mkdir ./folder1 ./folder2
 
-## **pwd** in ra đường dẫn đầy đủ đến thư mục hiện hành.
+## pwd
 
-## **cd** chuyển một thư mục thành thư mục hiện hành cho phiên làm việc hiện tại.
+in ra đường dẫn đầy đủ đến thư mục hiện hành.
 
-## **rmdir** xóa một thư mục.
+## cd
 
-## Sao chép: **cp**
+chuyển một thư mục thành thư mục hiện hành cho phiên làm việc hiện tại.
+
+## rmdir
+
+xóa một thư mục.
+
+## cp
+
+Sao chép
 
     cp item1 item2
 
@@ -68,9 +80,10 @@ Sao chép itemX vào directory
 VD: cp item1 item2 ... directory
 ```
 
-## Di chuyển hoặc đổi tên tệp và thư mục: **mv**
+## mv
 
-    mv item1 item2
+Di chuyển hoặc đổi tên tệp và thư mục:
+mv item1 item2
 
 | Tùy biến         | Tác dụng                                                                                                                                           |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -91,7 +104,9 @@ Di chuyển item1 vào trong item2 nếu item2 đã tồn tại
 VD: mv item1 item2
 ```
 
-## Xóa tệp hoặc thư mục: **rm**
+## rm
+
+Xóa tệp hoặc thư mục
 
 | Tùy biến         | Tác dụng                                                                                                             |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------- |
@@ -100,49 +115,49 @@ VD: mv item1 item2
 | -f, -force       | Bỏ qua các tệp không tồn tại và không xác nhận trước khi xóa. Tùy biến này sẽ làm mất tác dùng tùy biến —interactive |
 | -v, -verbose     | Hiển thị các thông tin trạng thái trong quá trình sao chép                                                           |
 
-## **cat**
+## cat
 
 đọc và in ra nội dung của file ra màn hình.
 
-## **tail**
+## tail
 
 đọc và in ra nội dung 10 dòng cuối cùng của file (mặc định).Có thể sử dụng tail **-n N** để chỉ định in **N** dòng ra màn hình.
 
-## **less**
+## less
 
 in ra nội dung của một file theo từng trang trong trường hợp nội dung của file quá lớn và phải đọc theo trang. Bạn có thể dùng **Ctrl+F** để chuyển trang tiếp theo và **Ctrl+B** để chuyển về trang trước.
 
-## **grep**
+## grep
 
 tìm kiếm nội dung của file theo chuỗi cung cấp. Có thể dùng grep **-i** để tìm kiếm không phân biệt hoa thường hoặc **grep -r** để tìm kiếm trong toàn thư mục
 
-## **find -name**
+## find -name
 
 tìm kiếm file trong theo. Có thể dùng **find -iname** để tìm kiếm không phân biệt hoa thường.
 
-## **tar**
+## tar
 
 - **tar -cvf** tạo file nén (.tar) từ các file có sẵn.
 - **tar -tvf** xem nội dung file nén (.tar).
 - **tar -xvf** giải nén (file .tar).
 
-## **gzip**
+## gzip
 
 tạo file nén (.gz). Sử dụng **gzip -d** để giải nén (file .gz).
 
-## **unzip**
+## unzip
 
 giải nén một file nén (.zip). Sử dụng **unzip -l** để xem nội dung file zip mà không cần giải nén.
 
-## **ping <địa chỉ host>**
+## ping <địa chỉ host>
 
 ​ ping một host từ xa (server) bằng cách gửi các gói tin đến host đó. Nó thường dùng để kiểm tra kết nối mạng đến server.
 
-## **ps** ​
+## ps
 
 hiển thị thông tin về các tiến trình đang chạy.
 
-## **top** ​
+## top
 
 hiển thị thông tin về các tiến trình đang chạy, sắp xếp theo hiệu suất CPU.
 Có thể dùng lệnh **top -u** ​ để xem thông tin các tiến trình đang chạy của tài khoản đó.
