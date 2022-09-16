@@ -5,12 +5,9 @@ public class Sort {
         String[] arrayString = {"B", "C", "A", "D"};
         Integer[] arrayInt = {1, 3, 2};
         Double[] arrayDouble = {1.0, 3.0, 2.0};
-        arrayString = sort.bubbleSort(arrayString);
-        arrayInt = sort.bubbleSort(arrayInt);
-        arrayDouble = sort.bubbleSort(arrayDouble);
-        printArray(arrayString);
-        printArray(arrayInt);
-        printArray(arrayDouble);
+        printArray(sort.bubbleSort(arrayString));
+        printArray(sort.bubbleSort(arrayInt));
+        printArray(sort.bubbleSort(arrayDouble));
 
 
     }
