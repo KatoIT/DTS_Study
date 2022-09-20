@@ -1,5 +1,11 @@
 # Access Modifier, 👋
 
+- [Public Access Modifier](#public-access-modifier)
+- [Private Access Modifier](#private-access-modifier)
+- [Protected Access Modifier](#protected-access-modifier)
+- [Default Access Modifier](#default-access-modifier)
+- [Access Modifier và tính kế thừa trong Java](#access-modifier-và-tính-kế-thừa-trong-java)
+
 **Access modifier** là các "từ" dùng trước các khai báo của một class, biến hay method(phương thức) để thể hiện khả năng truy cập của class, biến hay method đó ở các class khác. Với class ta có 2 loại Access modifier là **public** và **default** nhưng với biến và method(phương thức) thì ta có 4 access modifier **(public, protected, default, private)**.
 
 **Default**: Truy cập trong nội bộ package

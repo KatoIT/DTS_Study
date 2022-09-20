@@ -1,5 +1,14 @@
 Multithreading, 👋
 
+- [Đa luồng (Multithreading)](#đa-luồng-multithreading)
+- [Ưu điểm của đa luồng trong java](#ưu-điểm-của-đa-luồng-trong-java)
+- [Đa nhiệm (multitasking)](#đa-nhiệm-multitasking)
+- [Đa nhiệm dựa trên tiến trình (Process) - Đa tiến trình (Multiprocessing)](#đa-nhiệm-dựa-trên-tiến-trình-process---đa-tiến-trình-multiprocessing)
+- [Đa nhiệm dựa trên luồng (Thread) - Đa luồng (MultiThreading)](#đa-nhiệm-dựa-trên-luồng-thread---đa-luồng-multithreading)
+- [Vòng đời của thred (các trạng thái) trong java](#vòng-đời-của-thred-các-trạng-thái-trong-java)
+- [Runnable interface](#runnable-interface)
+- [Start một thread](#start-một-thread)
+
 # Đa luồng (Multithreading)
 
 Đa luồng (multithreading) trong java là một tiến trình thực hiện nhiều luồng đồng thời.

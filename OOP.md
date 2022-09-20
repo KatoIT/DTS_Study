@@ -1,5 +1,10 @@
 # Oriented Object Programming(OOP), 👋
 
+- [Lập trình hướng đối tượng](#lập-trình-hướng-đối-tượng)
+- [Thành phần của OOP](#thành-phần-của-oop)
+- [Các tính chất trong OOP Java](#các-tính-chất-trong-oop-java)
+- [Ưu điểm, nhược điểm](#ưu-điểm-nhược-điểm)
+
 # Lập trình hướng đối tượng
 
 - Lập trình hướng đối tượng là một mô hình lập trình máy tính dựa trên khái niệm lớp và đối tượng.
