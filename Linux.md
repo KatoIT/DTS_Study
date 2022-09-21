@@ -1,6 +1,22 @@
 # Linux, 👋
 
-![](https://wiki.matbao.net/wp-content/uploads/2019/07/linux-la-gi-tong-hop-moi-kien-thuc-ve-he-dieu-hanh-linux.jpg)
+- [Linux là gì?](#linux-là-gì-🐧)
+  - [Cấu trúc hệ điều hành Linux](#)
+- [Ưu và nhược điểm của hệ điều hành Linux](#)
+  - [Ưu điểm](#ưu-điểm)
+  - [Nhược điểm](#nhược-điểm)
+- [Vì sao nên sử dụng hệ điều hành Linux?](#)
+  - [Có tính ổn định cao](#tính-ổn-định-cao)
+  - [Có khả năng bảo mật tốt](#khả-năng-bảo-mật-tốt)
+  - [Khá linh hoạt](#khá-linh-hoạt)
+  - [Tính chủ động](#tính-chủ-động)
+  - [Chi phí rẻ](#chi-phí-rẻ)
+- [Sự khác biệt giữa hệ điều hành Linux và Windows](#sự-khác-biệt-giữa-hệ-điều-hành-linux-và-windows)
+- [Các phiên bản của hệ điều hành Linux](#các-phiên-bản-của-hệ-điều-hành-linux)
+
+---
+
+<img src="https://wiki.matbao.net/wp-content/uploads/2019/07/linux-la-gi-tong-hop-moi-kien-thuc-ve-he-dieu-hanh-linux.jpg" width="400" alt="linux">
 
 # Linux là gì? 🐧
 
@@ -40,11 +56,11 @@ Linux đang được phát hành miễn phí trên thị trường và cũng có
 
 # Vì sao nên sử dụng hệ điều hành Linux?
 
-    - Có tính ổn định cao
-    - Có khả năng bảo mật tốt
-    - Khá linh hoạt
-    - Tính chủ động
-    - Chi phí rẻ
+- [Có tính ổn định cao](#tính-ổn-định-cao)
+- [Có khả năng bảo mật tốt](#khả-năng-bảo-mật-tốt)
+- [Khá linh hoạt](#khá-linh-hoạt)
+- [Tính chủ động](#tính-chủ-động)
+- [Chi phí rẻ](#chi-phí-rẻ)
 
 ## Tính ổn định cao
 
@@ -77,7 +93,6 @@ Cụ thể dưới đây là một số điểm khác biệt của hai hệ đi�
     - Trình quản lý gói
     - Không sử dụng Registry
     - Cấu trúc file
-    - Vậy hiện tại các hệ điều hành đã được phát hành bởi Linux là gì?
 
 # Các phiên bản của hệ điều hành Linux
 
